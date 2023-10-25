@@ -28,7 +28,40 @@ modules:
     install:
       - neovim
       - git
-      - cinnamon
+      - breeze-icon-theme
+      - plasma-user-manager 
+      - kwin 
+      - kde-settings-pulseaudio 
+      - xdg-desktop-portal-kde 
+      - kinfocenter 
+      - kwayland-integration 
+      - kwalletmanager5 
+      - plasma-breeze 
+      - ksysguard
+      - plasma-nm 
+      - dolphin 
+      - polkit-kde 
+      - kdeplasma-addons 
+      - plasma-discover 
+      - plasma-drkonqi 
+      - plasma-workspace-wayland 
+      - khotkeys 
+      - kscreenlocker 
+      - pam-kwallet 
+      - plasma-workspace 
+      - kf5-akonadi-server 
+      - initial-setup-gui
+      - kwin-wayland 
+      - kscreen 
+      - kde-print-manager 
+      - kmousetool 
+      - kde-gtk-config 
+      - bluedevil 
+      - ark 
+      - plasma-pa 
+      - phonon-qt5-backend-gstreamer 
+      - plasma-desktop 
+      - kdialog
       - make
       - terminator
       - steghide
