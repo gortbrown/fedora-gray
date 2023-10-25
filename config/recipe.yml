@@ -1,5 +1,5 @@
 # image will be published to ghcr.io/<user>/<name>
-name: Fedora-Gray
+name: fedora-gray
 # description will be included in the image's metadata
 description: My own custom Fedora Silverblue-based image!
 
