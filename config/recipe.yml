@@ -67,7 +67,7 @@ modules:
       - steghide
       - wireguard
       - tailscale
-      - virtualbox
+      - VirtualBox-7.0
     remove:
       - firefox # default firefox removed in favor of flatpak
       - firefox-langpacks # langpacks needs to also be removed to prevent dependency problems
